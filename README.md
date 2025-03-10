@@ -1,5 +1,10 @@
+<div align="center">
+  <h1>Agil Fahmi Raka Saputra</h1>
+  <img height="200" src="https://raw.githubusercontent.com/MuhammadHudaibi/MuhammadHudaibi/refs/heads/master/hai.gif"  />
+</div>
+
 # About Me:
-I am a student in the Faculty of Sains and Technology, Yogyakarta Univesity of Technology.<br>I am a person who has high curiosity to develop myself, hardworking and never give up.<br>I am a perfectionist who is interested in challenging, programming, watching movies, and ONE PIECE.
+I am a Faculty of Sains and Technology graduate, Yogyakarta Univesity of Technology.<br>I am a person who has high curiosity to develop myself, hardworking and never give up.<br>I am a perfectionist who is interested in challenging, programming, watching movies, and ONE PIECE.
 
 
 # Socials:
