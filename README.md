@@ -4,7 +4,7 @@
 </div>
 
 # About Me:
-I am a Faculty of Sains and Technology graduate, Yogyakarta Univesity of Technology.<br>I am a person who has high curiosity to develop myself, hardworking and never give up.<br>I am a perfectionist who is interested in challenging, programming, watching movies, and ONE PIECE.
+I am a Faculty of Sains and Technology graduate, Yogyakarta Univesity of Technology.<br>I am a person who has high curiosity to develop myself, hardworking and never give up.<br>I am interested in challenging, programming, watching movies, reading mangas, and ONE PIECE.
 
 
 # Socials:
