@@ -4,7 +4,10 @@
 </div>
 
 # About Me:
-I am a Faculty of Sains and Technology graduate, Yogyakarta Univesity of Technology.<br>I am a person who has high curiosity to develop myself, hardworking and never give up.<br>I am interested in challenging, programming, watching movies, reading mangas, and ONE PIECE.
+Hai. Sorry, I understand and can use the Git version control system as of March 2025<br>
+I'm a Bachelor of Computer Science, Yogyakarta Univesity of Technology<br>
+I'm a responsible person, careful, enthusiastic about learning new things, and has high curiosity to develop myself, hardworking and never give up<br>
+I'm interested in challenging things, programming, watching movies, reading, and ONE PIECE
 
 
 # Socials:
