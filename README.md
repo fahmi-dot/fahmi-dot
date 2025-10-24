@@ -4,10 +4,11 @@
 </div>
 
 # About Me:
-<b>Hi<b/>. I've just understand and can use the Git version control system as of March 2025. So my activities here started from that day<br>
-<b>I'm<b/> a Bachelor of Computer Science, Yogyakarta Univesity of Technology<br>
-<b>I'm<b/> a responsible person, careful, enthusiastic about learning new things, and has high curiosity to develop myself, hardworking and never give up<br>
-<b>I'm<b/> interested in challenging things, programming, watching movies, reading, and ONE PIECE
+Hi!<br>
+I'm a Bachelor of Computer Science, Yogyakarta Univesity of Technology<br>
+I'm a responsible person, careful, enthusiastic about learning new things, and has high curiosity to develop myself, hardworking and never give up<br>
+I'm interested in challenging things, programming, watching movies, reading, and ONE PIECE<br>
+BTW, I've just understand and can use the Git version control system as of March 2025. So my activities here started from that day
 
 
 # Socials:
